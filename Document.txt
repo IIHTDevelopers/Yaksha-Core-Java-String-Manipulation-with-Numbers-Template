@@ -1,0 +1,43 @@
+Project 1: String Manipulation with Numbers
+Project Overview
+This project focuses on manipulating strings that contain numbers. The goal is to assess your ability to convert numbers to strings, parse numbers from strings, and perform mathematical operations on numbers embedded within strings.
+
+Learning Objectives
+By completing this project, you will learn to:
+
+Convert numeric values into string format.
+Parse numeric values from strings.
+Perform arithmetic operations on numbers contained in strings.
+Check if a string contains numeric values.
+Assessment Tasks
+Declare a String containing a number:
+
+Declare a string variable containing a sentence or phrase that includes numeric values (e.g., "The total cost is 150 dollars").
+Convert a number to a String:
+
+Convert a numeric value into a string. For example, convert an integer like 250 to a string.
+Parse a number from a String:
+
+Extract numeric values from the declared string. Convert a part of the string (e.g., "150") into a numeric type (like integer or float).
+Perform Arithmetic Operations:
+
+Once a number has been parsed from the string, perform basic arithmetic operations such as addition, subtraction, etc.
+Check if a String contains a number:
+
+Check if the string contains numeric characters or if there is a number embedded in the string.
+Steps for Participants
+Step 1:
+
+Declare a string that contains a number. For example, "The total cost is 150 dollars."
+Step 2:
+
+Convert a numeric value into a string (e.g., String.valueOf(250)).
+Step 3:
+
+Parse a number from a string (e.g., extract the number 150 from "The total cost is 150 dollars").
+Step 4:
+
+Perform a simple arithmetic operation on the parsed number (e.g., add 50 to 150).
+Step 5:
+
+Check if the string contains any numeric values.
